@@ -9,7 +9,7 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.member.user.username === 'zlafreniere1') {
+  if (msg.member.user.username === 'Sayanjin (jdeme051)') {
     msg.reply('g$');
   }
 });
